@@ -4,6 +4,7 @@
     <title>Daftar Buku</title>
 </head>
 <body>
+    <h1>TES</h1>
     <h1>📚 Daftar Buku Perpustakaan</h1>
     <a href="{{ route('books.create') }}">+ Tambah Buku</a>
     <br><br>
